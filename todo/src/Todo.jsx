@@ -11,7 +11,6 @@ export default function Todo() {
             const list = await Get()
             setGetData(list)
         }
-
         fetchUser()
 
     }, [])
@@ -25,6 +24,8 @@ export default function Todo() {
           <h3 key={index}>{item.title}</h3>
         ))
       }
+      enter title<input type="text" placeholder='enter title'  />
+
 
     </>
   )

@@ -7,3 +7,8 @@ export const Get=async()=>{
     const response=await axios.get(API)
     return response.data
 }
+
+
+export const Set=async()={
+    const response=await axios.post(API)
+}
