@@ -2,43 +2,15 @@
   "todos": [
     {
       "id": 1,
-      "title": "Learn React Hooks",
-      "description": "Practice useState and useEffect",
-      "completed": false,
-      "priority": "High",
-      "date": "2026-03-03"
+      "name": "Learn React Hooks"
     },
     {
-      "id": 2,
-      "title": "Build Todo App",
-      "description": "Create CRUD operations using JSON Server",
-      "completed": false,
-      "priority": "Medium",
-      "date": "2026-03-04"
+      "id": "9238",
+      "name": "xx"
     },
     {
-      "id": 3,
-      "title": "Revise Django Models",
-      "description": "Practice relationships and migrations",
-      "completed": true,
-      "priority": "High",
-      "date": "2026-03-01"
-    },
-    {
-      "id": 4,
-      "title": "Apply for Jobs",
-      "description": "Apply on TCS, Cognizant and Capgemini",
-      "completed": false,
-      "priority": "High",
-      "date": "2026-03-05"
-    },
-    {
-      "id": 5,
-      "title": "Practice DSA",
-      "description": "Solve 5 problems on arrays",
-      "completed": false,
-      "priority": "Low",
-      "date": "2026-03-06"
+      "id": "8526",
+      "name": "aa"
     }
   ]
 }
