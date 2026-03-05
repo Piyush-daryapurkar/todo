@@ -41,7 +41,7 @@ export default function Todo() {
 
       {
         GetData.map((item, index) => (
-          <h3 key={index}>{item.name}</h3>
+          <ol key={index}>{item.name}</ol >
         ))
       }
 
