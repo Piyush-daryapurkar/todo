@@ -1,10 +1,28 @@
 {
-    "data":[
-        {
-            "name":"piyush",
-            "age":24,
-            "password":123
-            
-        }
-    ]
+  "data": [
+    {
+      "name": "piyush",
+      "age": 24,
+      "password": 123,
+      "id": "c957"
+    },
+    {
+      "id": "4d98",
+      "name": "s",
+      "age": "s",
+      "password": "s"
+    },
+    {
+      "id": "dca9",
+      "name": "4",
+      "age": "4",
+      "password": "4"
+    },
+    {
+      "id": "7b47",
+      "name": "a",
+      "age": "a",
+      "password": "a"
+    }
+  ]
 }
